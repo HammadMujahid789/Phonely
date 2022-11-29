@@ -1,1 +1,1 @@
-# Volograms
+Volograms is one of the fastest-growing tech startup in Ireland in 2022. Volograms is building the future of communications and content creation. Its vision is to bring reality capture closer to everyone, making content creation for AR and VR as simple as recording a video.
